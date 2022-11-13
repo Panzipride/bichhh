@@ -24,7 +24,7 @@ global.available = false //status online (online)
 // Other
 global.owner = ['6289601462371','6289601462371','6289601462371']
 global.premium = ['6289601462371']
-global.packname = 'Myzii Bot'
+global.packname = 'Buakarr Bot'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
